@@ -1,14 +1,6 @@
-//colors created for arrows
-
-var colors = chroma.scale('RdYlBu').mode('lch').colors(3);
-
-for (i = 0; i < 3; i++) {
-  $('head').append($("<style> .marker-color-" + (i + 1).toString() + " { color: " + colors[i] + "; font-size: 15px; text-shadow: 0 0 3px #ffffff;} </style>"));
-}
-
-//legends for each layer defined
-var legend1 = '<b>Field Trip Routes</b><br /><i style="background: ' + colors[2] + '; opacity: 0.5;"></i><p>Trip #1</p><i style="background: ' + colors[1] + '; opacity: 0.5;"></i><p>Trip #2</p><i style="background: ' + colors[0] + '; opacity: 0.5;"></i><p>Trip #3</p>'
-//layers
+//legend for flow map
+var legend1 = '<b>Field Trip Routes</b><br /><i style="background: #64A7D9; opacity: 0.5;"></i><p>Trip #1</p><i style="background: #FF0000; opacity: 0.5;"></i><p>Trip #2</p><i style="background: #FFA500; opacity: 0.5;"></i><p>Trip #3</p>'
+//layers, which include basemaps and arrows
 var layers = {
   layer1: {
     layer: L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
@@ -415,7 +407,6 @@ var scenes = {
 };
 //storymap object
 $('#storymap').storymap({
-    //triggerpos: `a string of percentage`, // A percentage string'33.333%',
     scenes: scenes,
     baselayer: layers.layer2,
     legend: true,
