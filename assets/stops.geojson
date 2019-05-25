@@ -1,0 +1,259 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 1,
+    "NAME": "MARY'S PEAK",
+    "DAY": "SATURDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.551216, 44.504378]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 2,
+    "NAME": "WALDPORT",
+    "DAY": "SATURDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-124.067588, 44.427943]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 3,
+    "NAME": "CAPE LOOKOUT",
+    "DAY": "SATURDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.971360, 45.354083]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 4,
+    "NAME": "TILLAMOOK CHEESE FACTORY",
+    "DAY": "SATURDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.844351, 45.484540]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 5,
+    "NAME": "CAMP RILEA",
+    "DAY": "SATURDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.934084, 46.122811]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 6,
+    "NAME": "FORT CLATSOP",
+    "DAY": "SUNDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.880320, 46.134491]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 7,
+    "NAME": "COLUMBIA RIVER MARITIME MUSEUM",
+    "DAY": "SUNDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.823622, 46.189987]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 8,
+    "NAME": "VISTA HOUSE",
+    "DAY": "SUNDAY I",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.244373, 45.539653]
+  }
+},
+
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 9,
+    "NAME": "OHSU",
+    "DAY": "SATURDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.684197, 45.499859]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 10,
+    "NAME": "MOUNT TABOR",
+    "DAY": "SATURDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.597848, 45.511908]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 11,
+    "NAME": "ALBERTA STREET",
+    "DAY": "SATURDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.644099, 45.559083]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 12,
+    "NAME": "SALMON STREET SPRINGS",
+    "DAY": "SATURDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.673311, 45.515366]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 13,
+    "NAME": "ELLMAKER STATE WAYSIDE",
+    "DAY": "SUNDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.630814, 44.613887]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 14,
+    "NAME": "EDDYVILLE",
+    "DAY": "SUNDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.796003, 44.636436]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 15,
+    "NAME": "BEVERLY BEACH",
+    "DAY": "SUNDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-124.058214, 44.726210]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 16,
+    "NAME": "NELSCOTT BEACH",
+    "DAY": "SUNDAY II",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-124.020181, 44.959493]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 17,
+    "NAME": "PEAVY ARBORETUM",
+    "DAY": "SATURDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.235155, 44.658784]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 18,
+    "NAME": "SHEA VIEW POINT",
+    "DAY": "SATURDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.653989, 44.410418]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 19,
+    "NAME": "HACKLEMAN OLD GROWTH FOREST",
+    "DAY": "SATURDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.092044, 44.400011]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 20,
+    "NAME": "OLD MILL DISTRICT",
+    "DAY": "SATURDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-121.316997, 44.045212]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 21,
+    "NAME": "SUNRIVER OBSERVATORY",
+    "DAY": "SATURDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-121.447999, 43.885360]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 22,
+    "NAME": "HIGH DESERT MUSEUM",
+    "DAY": "SUNDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-121.341418, 43.965922]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "STOPID": 23,
+    "NAME": "HOGG PASS SNOTEL",
+    "DAY": "SUNDAY III",
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-121.856419, 44.420571]
+  }
+},
+]
+}
